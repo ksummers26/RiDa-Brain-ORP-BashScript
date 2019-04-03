@@ -1,0 +1,4 @@
+#!/bin/bash
+### Pseudo-quantification
+
+kallisto index -i Rimitrans.idx imi_sub.ORP.fasta
